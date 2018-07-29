@@ -1,8 +1,6 @@
 # PIC18AsmAssignment
 
-Source code for the PIC18 assembly assignment. The problem statement is as follows:
-
-> Write an assembly language program to blink an LED at 1 second interval using the timer system.
+Source code for the PIC18 assembly assignment. The problem statement is as follows: Write an assembly language program to blink an LED at 1 second interval using the timer system.
 
 # Contributors
 
